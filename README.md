@@ -2,7 +2,7 @@
 # Speech Emotion Recognition using Deep learning and API 
 
 This repository lets you develop your own speech emotion recogntion Neural network using Tensorflow and Keras
-and deploy it as an API on heroku using Flask. 
+and deploy it as an API on heroku using Flask. Validation Accuracy of my model is 99%
 
 # Libraries
     1) Tensorflow
